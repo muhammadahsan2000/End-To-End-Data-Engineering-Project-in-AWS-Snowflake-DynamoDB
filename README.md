@@ -3,7 +3,7 @@
 #Overview:
 This project demonstrates an end-to-end real-time data pipeline that fetches weather data from an API, stores it in DynamoDB, streams it to Amazon S3, and loads it into Snowflake for analysis. The architecture ensures automated, scalable, and reliable data processing using AWS Lambda, DynamoDB Streams, and Snowflake.
 
-https://github.com/muhammadahsan2000/End-To-End-Data-Engineering-Project-in-AWS-Snowflake-DynamoDB/blob/b465197bb0a2f72a5a0d79436804ca9b6b50b84d/de-proj.PNG
+https://github.com/muhammadahsan2000/End-To-End-Data-Engineering-Project-in-AWS-Snowflake-DynamoDB/blob/main/de-proj.PNG?raw=true
 
 #Workflow & Architecture:
 1️⃣ Weather Data Ingestion (Lambda & API Call)
